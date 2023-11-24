@@ -3,7 +3,7 @@
   "id": "realisticbrewery",
   "version": "${version}",
   "name": "RealisticBrewery",
-  "description": "",
+  "description": "A mod that attempts to resemble a realistic brewing experience",
   "authors": [],
   "contact": {
     "repo": "https://github.com/lukas/RealisticBrewery"
