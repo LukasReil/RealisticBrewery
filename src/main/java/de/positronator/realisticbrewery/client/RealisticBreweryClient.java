@@ -8,6 +8,6 @@ public class RealisticBreweryClient implements ClientModInitializer {
      */
     @Override
     public void onInitializeClient() {
-
+        System.out.println("Test");
     }
 }
